@@ -1,0 +1,41 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', sans-serif;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  background-color: #191717;
+}
+.answerBtn {
+  width: auto;
+  min-width: 300px;
+  margin-right: 15px;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  background-color: #131313;
+  border-radius: 15px;
+  cursor: pointer;
+}
+#summary {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+  margin-bottom: 30px;
+  border: 3px solid white;
+}
+#start {
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  background-color: #131313;
+  border-radius: 15px;
+  cursor: pointer;
+}
+#categorySelect select {
+  font-size: 35px;
+  text-align: center;
+  color: white;
+  background-color: #131313;
+  cursor: pointer;
+}
